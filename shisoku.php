@@ -2,8 +2,6 @@
     class shisoku{
 	/**
 	 * 
-	 * @set (new shisoku(6, 2))
-	 * @assert (new shisoku->add(), 8) == true
 	 * 
 	 */
         var $a, $b;
