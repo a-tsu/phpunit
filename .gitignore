@@ -1,3 +1,4 @@
 *.swp
 *.OLD
 vendor/
+tests/bootstrap.php

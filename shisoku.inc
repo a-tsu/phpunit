@@ -1,4 +1,6 @@
 <?php
+//TODO:use namespace
+//    namespace UnitTest\Sample;
     class shisoku{
 	/**
 	 * 
